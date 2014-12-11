@@ -1,0 +1,2 @@
+class StackUnderflowError < RuntimeError
+end
