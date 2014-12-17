@@ -1,3 +1,3 @@
-class Stack  
+class Stack
 
 end
